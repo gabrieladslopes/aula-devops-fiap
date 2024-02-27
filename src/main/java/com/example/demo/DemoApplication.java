@@ -49,7 +49,7 @@ public class DemoApplication {
 	
 	@GetMapping("/devops")
 	String turma(){
-		return "Zumbi 2.0";
+		return "Zumbi 2.1";
 	}
 	
 
